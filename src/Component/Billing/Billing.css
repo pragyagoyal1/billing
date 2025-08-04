@@ -1,0 +1,11 @@
+.billing-box {
+  padding-bottom: 40px;
+  overflow: visible;
+  position: relative;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
